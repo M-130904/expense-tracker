@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Frontend Build (if you had a build step, but not needed here)
+/dist
+/build
