@@ -33,7 +33,7 @@ Git
 Step 1: Clone the Repository
 Bash
 
-git clone https://github.com/YourUsername/expense-tracker.git
+git clone https://github.com/M-130904/expense-tracker.git
 cd expense-tracker
 Step 2: Install Dependencies
 This command installs all packages listed in package.json.
